@@ -67,7 +67,9 @@ export default function Layout({ children, home }) {
           </Link>
         </div>
       )}
-      <div>粤ICP备18046811号-1</div>
+      <div>
+        <a href="beian.miit.gov.cn" target="_blank">粤ICP备18046811号-1</a>
+      </div>
     </div>
   );
 }
