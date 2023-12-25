@@ -68,7 +68,7 @@ export default function Layout({ children, home }) {
         </div>
       )}
       <div>
-        <a href="beian.miit.gov.cn" target="_blank">粤ICP备18046811号-1</a>
+        <a href="//beian.miit.gov.cn" target="_blank">粤ICP备18046811号-1</a>
       </div>
     </div>
   );
